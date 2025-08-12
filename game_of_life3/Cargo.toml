@@ -1,0 +1,8 @@
+[package]
+name = "gol_tch"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+minifb = "0.28.0"
+tch = "0.20.0"
